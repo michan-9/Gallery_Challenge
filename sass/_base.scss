@@ -58,6 +58,10 @@ html {
     margin-bottom: 2.5rem;
   }
 
+  & > *:not(:last-child) {
+    margin-bottom: 1.5rem;
+  }
+
   &__img {
     width: 15rem;
     height: 15rem;
